@@ -8,6 +8,9 @@ This is a simple web application that allows users to convert amounts between di
   <li>Provides real-time exchange rate conversion using the Currency API.</li>
 </ul>
 
+# Screenshots
+![Screenshot 2024-09-05 211903](https://github.com/user-attachments/assets/114bb0f6-b002-4124-a70c-41a4ca2fac17)
+
 
 
 
